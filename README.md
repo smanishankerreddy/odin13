@@ -8,3 +8,4 @@ hashmap-project/
 │
 ├── package.json           # (Optional) For Node projects
 └── README.md              # (Optional) Project description and usage
+|__ bst.js
